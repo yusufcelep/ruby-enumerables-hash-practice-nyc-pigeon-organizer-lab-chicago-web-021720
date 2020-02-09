@@ -1,11 +1,11 @@
 def nyc_pigeon_organizer(data)
   hash = {
-    key_one: "Theo",
-    key_two: "value_two",
-    key_three: "value_three",
-    key_four: "value_four",
-    key_five: "value_five",
-    key_six: "value_six",
-    key_seven: "value_seven"
+    "Theo": "value_one",
+    "Peter Jr.": "value_two",
+    "Lucky": "value_three",
+    "Ms. K": "value_four",
+    "Queenie": "value_five",
+    "Andrew": "value_six",
+    "Alex": "value_seven"
   }
 end
