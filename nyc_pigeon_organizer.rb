@@ -1,6 +1,6 @@
 def nyc_pigeon_organizer(data)
   hash = {
-    "Theo": {},
+    Theo: {},
     "Peter Jr.": {},
     "Lucky": {},
     "Ms. K": {},
