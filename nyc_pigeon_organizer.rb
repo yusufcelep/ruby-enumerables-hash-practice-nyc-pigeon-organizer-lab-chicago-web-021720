@@ -1,7 +1,6 @@
 def nyc_pigeon_organizer(data)
   hash = {}
-  
-  pigeon_list = {}
+
   data.each do |color_gender_lives, value|
     value.each do |stats, all_names|
       all_names.each do |name|
@@ -16,5 +15,5 @@ def nyc_pigeon_organizer(data)
     end 
   end
   pigeon_list
-end
+  end
 end
